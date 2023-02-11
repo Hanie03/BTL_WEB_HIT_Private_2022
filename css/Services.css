@@ -995,9 +995,10 @@ span::after{
 
 .footer__info{
     background-color: #2d3237;
-    height: 35rem;
+    /* height: 35rem; */
     padding-left: 9%;
     padding-right: 9%;
+    padding-bottom: 3rem;
     padding-top: 6rem;
   }
   

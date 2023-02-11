@@ -469,7 +469,8 @@ button:hover{
 
 .footer__info{
     background-color: #2d3237;
-    height: 35rem;
+    /* height: 35rem; */
+    padding-bottom: 3rem;
     padding-left: 9%;
     padding-right: 9%;
     padding-top: 6rem;
